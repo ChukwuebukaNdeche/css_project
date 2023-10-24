@@ -1,0 +1,18 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+th,td {
+    padding: 10px;
+}
+th {
+    background: rgb(54, 53, 53);
+    color: white;
+}
+tr:nth-child(odd) {
+    background: rgb(233, 229, 229);
+}
+tr:hover {
+    background: rgb(122, 120, 120);
+    color: white;
+    
+}
